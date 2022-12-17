@@ -624,6 +624,9 @@ footer span {
 }
 
 @media(max-width:460px) {
+    h2 {
+        font-size: 38px;
+    }
     .container {
         padding: 0 32px;
     }
