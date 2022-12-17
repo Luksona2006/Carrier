@@ -458,6 +458,12 @@ footer span {
     fill: #F5F5F5;
 }
 
+.active-li {
+    font-size: 22px;
+    font-weight: 600;
+    color: #000000;
+}
+
 /* RESPONSIVE */
 
 @media(max-width: 1440px) {
@@ -568,6 +574,13 @@ footer span {
         justify-content: right;
     }
     
+    .active-li {
+        font-size: 22px;
+        font-weight: 600;
+        color: #FFFFFF;
+        letter-spacing: 2px;
+    }
+    
 
 } 
 
@@ -618,8 +631,3 @@ footer span {
         height: 200px;
     }
 }
-
-
-
-
-
